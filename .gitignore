@@ -1,0 +1,4 @@
+# Ignorar directorio .venv
+.venv/
+config.py
+cogs/__pycache__/
